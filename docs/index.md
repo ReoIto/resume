@@ -23,11 +23,26 @@ layout: doc
 </p>
 
 
+## 職務要約
+
+サブスクリプション管理システムおよび不動産テック領域において、約5年間のソフトウェア開発経験を有します。1社目では業界シェアNo.1のEC基幹システムのエンタープライズ向け開発に従事し、フロントエンド・バックエンド双方の設計・実装および顧客折衝を担当。現職ではプロジェクトリーダーとして、モダンな技術を用いたマイクロサービス基盤の構築や、LINE活用プロダクトの新規立ち上げを主導しました。技術選定、アーキテクチャ設計からチームマネジメントまで、事業課題を技術で解決し、ビジネスの成長に貢献することを強みとしています。
+
 ## 保有スキル
 
 - Webアプリケーションの設計・開発・運用（フロントエンド、バックエンド）
-- フロントエンドへの技術的負債解消・リアーキテクチャ
-- フロントエンド開発基盤の整備（ビルド、テスト環境、パフォーマンス計測）
+- プロジェクトマネジメント（プロジェクトリーダー経験）
+- 要件定義・技術選定
+- マルチテナントアーキテクチャ設計
+- マイクロサービス基盤の構築
+
+## 意欲・興味
+
+- ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだとより良いです。
+- 開発に携わったサービスが、身近な人の生活をより良くしていく過程を肌で感じられる時、パフォーマンスが出せると感じています。
+- 少人数チームで小さく素早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます。
+- どうしたら使いやすいデザインになるか、ユーザーの視点に立って考えることが好きです。
+- ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています。
+- 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境だと能力を発揮しやすいです。
 
 ## 技術スタック
 
@@ -38,8 +53,8 @@ layout: doc
 |言語|業務経験|
 |---|---|
 |<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />|5年|
-|<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />|5年|
 |<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />|5年|
+|<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />|4年|
 |<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />|1年|
 |<img alt="Dart" src="https://img.shields.io/badge/-Dart-007396?style=flat-square&logo=Dart&logoColor=white" />|1年|
 
@@ -51,12 +66,36 @@ layout: doc
 |---|---|
 |<img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />|5年|
 |<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />|4年|
+|<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />|3年|
 |<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />|2年|
+|<img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" />|1年|
 |<img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" />|1年|
 |<img alt="Hono" src="https://img.shields.io/badge/-Hono-f57c00?style=flat-square&logo=Hono&logoColor=white" style="background-color: #f57c00;" />|1年|
 |<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />|1年|
-|<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />|3年|
 |<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|5年|
+
+</div>
+
+<div>
+
+|インフラ・DB|業務経験|
+|---|---|
+|<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" />|5年|
+|<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />|5年|
+|<img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />|5年|
+|<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />|3年|
+|<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />|2年|
+|<img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white" />|1年|
+
+</div>
+
+<div>
+
+|開発ツール・その他|業務経験|
+|---|---|
+|<img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=CircleCI&logoColor=white" />|5年|
+|<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-343434?style=flat-square&logo=GitHub Actions&logoColor=white" />|5年|
+|<img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white" />|3年|
 
 </div>
 
@@ -64,53 +103,138 @@ layout: doc
 
 ## 職務経歴
 
-:::details 2023/07〜現在 [パレットクラウド株式会社](https://corporate.palette.co.jp//) {open}
+:::details 2023/04〜現在 [パレットクラウド株式会社](https://corporate.palette.co.jp/) {open}
 
-テキストテキスト
+**事業内容：** クラウド型入居者管理システム「パレット管理」等の開発・運営
 
-- **プロジェクト規模：**
-  - 3〜5人チーム
-- **使用技術：**
-  - Ruby, Ruby on Rails, JavaScript, TypeScript, Vue.js, Nuxt.js, MySQL,  Docker, AWS
-- **担当プロジェクト：**
-  - パレット管理サービスの開発・運用
+**雇用形態：** 正社員（フルリモート）
+
+### 汎用申請管理モジュールの開発
+
+- **役割**
+  - プロジェクトリーダー / 開発（チーム6名）
+- **環境**
+  - TypeScript, NestJS, Zod, PostgreSQL (Drizzle ORM), AWS, OpenAPI
+
+- **概要**
+  - 「パレット管理」システムのあらゆるフォーム申請の定義・データを一元管理するバックエンドモジュールの新規構築。
+- **課題**
+  - 従来は機能ごとに似たようなフォームが個別実装されており、仕様のバラつきや修正時の工数増大（技術的負債）が課題となっていました。
+
+- **取り組み・成果**
+  - **アーキテクチャ設計**
+    - 申請業務に特化したマイクロサービスとして設計。NestJSを採用し、型安全かつ保守性の高いAPI基盤を構築。
+  - **高度なセキュリティ実装**
+    - PostgreSQLのRLS（Row Level Security）を活用し、DBレベルでテナント間のデータ分離を保証するセキュアなマルチテナント構造を設計・実装。
+  - **機能実装**
+    - イミュータブルデータモデルによる履歴管理、ファイル添付、複雑な検索・エクスポート/インポート機能を実装。
+  - **開発効率化**
+    - フォーム定義やバリデーションロジックを共通化し、新機能追加時の開発コストを大幅に削減できる基盤を確立。
+  - **技術選定**
+    - NestJS、PostgreSQL、Drizzle ORM, Zodなどの技術選定を主導。
+  - **プロジェクトマネジメント**
+    - Notionを用いた進捗管理、要件定義、開発ディレクションを実施。
+
+### パレット管理 onLINE（LINE版アプリ）の立ち上げ
+
+- **役割**
+  - プロジェクトリーダー / 開発（チーム5名）
+
+- **環境**
+  - Ruby on Rails, Vue.js, LINEミニアプリ
+
+- **概要**
+  - 入居者の利便性向上と管理会社の業務効率化（ペーパーレス・電話削減）を目的とした、LINE公式アカウント連携アプリの新規開発。
+
+- **取り組み・成果**
+  - **超短期開発**
+    - 構想からリリースまでわずか3ヶ月で完遂。過去最速でのローンチを実現し、年間個人優秀賞・プロジェクト優秀賞をW受賞。
+  - **マネジメント**
+    - エンジニア、デザイナー、CS、QAを含むチームのPLとして、Notionを用いた進捗管理、要件定義、開発ディレクションを主導。
+  - **ビジネス貢献**
+    - 入居時チェック、解約申請、問い合わせ対応などの主要機能を実装し、管理会社の「言った言わない」トラブル防止や対応工数削減に貢献。現在、複数社で本番稼働中。
+
+### パレット管理サービスの開発・運用
+
+- **役割**
+  - 開発
+- **環境**
+  - Ruby on Rails, Vue.js, Nuxt.js, PostgreSQL, AWS
+
+- **取り組み**
+  - 新規機能開発から機能改善まで幅広く担当。
+  - バックエンドチームの所属がメインだが、フロントエンドチームにも兼務。
+  - カスタマーからの問い合わせにも対応。問い合わせから3時間までに解決することを達成指標として設定し、問い合わせへの対応速度を向上。
+
 :::
 
-:::details 2021/04〜2023/07 [テモナ株式会社](https://temona.co.jp/) {open}
+:::details 2021/04〜2023/03 [テモナ株式会社](https://temona.co.jp/) {open}
 
-サブスクリプション特化型クラウドシステム「サブスクストア」の開発・運用。
+**事業内容：** サブスクリプション特化型クラウドシステム「サブスクストア」等の開発・販売
 
-- **プロジェクト規模：**
-  - 3〜5人チーム
-- **使用技術：**
-  - Ruby, Ruby on Rails, JavaScript, TypeScript, Vue.js, Nuxt.js, MySQL,  Docker, AWS
-- **担当プロジェクト：**
-  - テモナ管理サービスの開発・運用
+**雇用形態：** 正社員（新卒入社、フルリモート）
+
+### サブスクストア（エンタープライズ向け）の機能開発・保守
+
+**役割：** フルスタックエンジニア（チーム約10名）
+
+**環境：** Ruby on Rails, React, PostgreSQL, AWS
+
+- **概要**
+  - 業界シェアNo.1の定期通販カートシステムにおける、大規模ショップ（エキスパートプラン）向けの機能開発および保守運用。
+
+- **取り組み・成果**
+  - **フルスタック開発**
+    - バックエンド(Rails)からフロントエンド(React)まで分業せず一気通貫で担当。
+  - **顧客折衝・技術支援**
+    - エンタープライズ顧客の技術担当として打ち合わせに参加。CSからのエスカレーション対応では、ソースコード調査から原因特定、修正リリースまで迅速に対応し、顧客満足度向上に寄与。
+  - **安定稼働への貢献**
+    - 緊急性の高い不具合対応や、大規模トラフィックを前提としたパフォーマンスを意識した実装を実施。
 
 :::
 
-## 意欲・興味
+## 個人開発・業務外活動
 
-- ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだとより良いです。
-- 開発に携わったサービスが、身近な人の生活をより良くしていく過程を肌で感じられる時、パフォーマンスが出せると感じています。
-- 少人数チームで小さく素早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます。
-- どうしたら使いやすいデザインになるか、ユーザーの視点に立って考えることが好きです。
-- ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています。
-- 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境だと能力を発揮しやすいです。
+
+:::details 2025/12〜現在 [kotory - コトリー](https://kotoryapp.com) {open}
+
+- **概要**
+  - AI編集者と対話するだけで、その人の人生が本になるWebサービス
+
+- **使用技術**
+  - Bun, Hono, Next.js, Supabase, Drizzle ORM, Tanstack AI, Cloudflare
+
+- **成果**
+  - AI編集者からの質問に気軽に答えるだけで良い体験を実現。
+  - 軽量ランタイム(Bun)やエッジ向けフレームワーク(Hono)を採用し、パフォーマンスを重視した設計を実現。
+  - レイヤードアーキテクチャを採用し、拡張性・変更用意性の高い設計を実現。
+  - Web広告等の施策を実施し、実際に売上（購入者）を発生させた。
+
+:::
+
+:::details 2025/07〜現在 [Remoi - リモい](https://remoi.app) {open}
+
+- **概要**
+  - 「久しぶり！をもっと簡単に。」出身校をキーにしたソーシャルマッチングアプリ
+
+- **使用技術**
+  - Flutter (Dart), TypeScript, Firebase
+
+- **成果**
+  - iOS/Android両対応のクロスプラットフォーム開発を一人で完遂。
+  - SNSマーケティングにより累計700名以上のユーザーを獲得。
+  - オフラインユーザー会を主催し、N1インタビューを通じてプロダクト改善を実施。
+
+:::
 
 ## 就業条件
 
 - 勤務形態: フルリモートワーク（週1回程度の出社は可）
 
-## 業務外活動
-
-### アウトプット
-
-#### Qiita
-[https://qiita.com/ganbarow-taro](https://qiita.com/ganbarow-taro)
+## アウトプット
 
 <QiitaArticles />
 
-### その他
+## その他
 
 
