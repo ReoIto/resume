@@ -12,7 +12,6 @@
 
 - [GitHub Pages](https://reoito.github.io/resume/)
 - [PDF](https://github.com/ReoIto/resume/releases)
-- [File](https://github.com/ReoIto/resume/blob/master/docs/README.md)
 
 ## Features
 
