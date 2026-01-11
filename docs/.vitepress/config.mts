@@ -32,7 +32,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/ReoIto/resume' }
     ],
     editLink: {
-      pattern: 'https://github.com/ReoIto/resume/edit/master/docs/:path'
+      pattern: 'https://github.com/ReoIto/resume/edit/main/docs/:path'
     }
   },
   lastUpdated: true,

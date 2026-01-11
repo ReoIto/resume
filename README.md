@@ -10,7 +10,7 @@
 
 ## Data
 
-- [GitHub Pages](https://ReoIto.github.io/resume/)
+- [GitHub Pages](https://reoito.github.io/resume/)
 - [PDF](https://github.com/ReoIto/resume/releases)
 - [File](https://github.com/ReoIto/resume/blob/master/docs/index.md)
 ## Features
