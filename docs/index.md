@@ -271,7 +271,3 @@ layout: doc
 ## アウトプット
 
 <QiitaArticles />
-
-## その他
-
-
