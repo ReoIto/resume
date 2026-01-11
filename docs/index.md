@@ -9,7 +9,7 @@ layout: doc
 
 <div style="margin-bottom: 24px;">
 
-<img src="/images/profile-image.jpg" alt="プロフィール画像" style="width: 200px; height: 200px; object-fit: cover;" />
+<img src="/images/profile-image.jpg" alt="プロフィール画像" style="width: 400px; height: 300px; object-fit: cover;" />
 
 </div>
 
@@ -36,8 +36,8 @@ layout: doc
 ## 保有スキル
 
 - Webアプリケーションの設計・開発・運用（フロントエンド、バックエンド）
-- プロジェクトマネジメント（プロジェクトリーダー経験）
 - 要件定義・技術選定
+- プロジェクトマネジメント（プロジェクトリーダー経験）
 - マルチテナントアーキテクチャ設計
 - マイクロサービス基盤の構築
 
