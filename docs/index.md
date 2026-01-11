@@ -7,7 +7,13 @@ layout: doc
 
 ## 基本情報
 
-|key|value|
+<div style="margin-bottom: 24px;">
+
+<img src="/images/profile-image.jpg" alt="プロフィール画像" style="width: 200px; height: 200px; object-fit: cover;" />
+
+</div>
+
+|項目|内容|
 |---|---|
 |氏名|伊藤 励音（Ito Reo）|
 |生年月日|1998/02/10|
@@ -105,6 +111,12 @@ layout: doc
 
 :::details 2023/04〜現在 [パレットクラウド株式会社](https://corporate.palette.co.jp/) {open}
 
+<div style="margin-bottom: 24px;">
+
+<img src="/images/palette-cloud.png" alt="パレットクラウドのロゴ" style="width: 100%; max-width: 800px; height: auto;" />
+
+</div>
+
 **事業内容：** クラウド型入居者管理システム「パレット管理」等の開発・運営
 
 **雇用形態：** 正社員（フルリモート）
@@ -170,6 +182,12 @@ layout: doc
 
 :::details 2021/04〜2023/03 [テモナ株式会社](https://temona.co.jp/) {open}
 
+<div style="margin-bottom: 24px;">
+
+<img src="/images/subsc-store.png" alt="サブスクストアのロゴ" style="width: 100%; max-width: 800px; height: auto;" />
+
+</div>
+
 **事業内容：** サブスクリプション特化型クラウドシステム「サブスクストア」等の開発・販売
 
 **雇用形態：** 正社員（新卒入社、フルリモート）
@@ -195,8 +213,13 @@ layout: doc
 
 ## 個人開発・業務外活動
 
-
 :::details 2025/12〜現在 [kotory - コトリー](https://kotoryapp.com) {open}
+
+<div style="margin-bottom: 24px;">
+
+<img src="/images/kotory.png" alt="kotoryのスクリーンショット" style="width: 100%; max-width: 800px; height: auto;" />
+
+</div>
 
 - **概要**
   - AI編集者と対話するだけで、その人の人生が本になるWebサービス
@@ -214,6 +237,12 @@ layout: doc
 
 :::details 2025/07〜現在 [Remoi - リモい](https://remoi.app) {open}
 
+<div style="margin-bottom: 24px;">
+
+<img src="/images/remoi.png" alt="Remoiアプリのスクリーンショット" style="width: 100%; max-width: 800px; height: auto;" />
+
+</div>
+
 - **概要**
   - 「久しぶり！をもっと簡単に。」出身校をキーにしたソーシャルマッチングアプリ
 
@@ -229,7 +258,7 @@ layout: doc
 
 ## 就業条件
 
-- 勤務形態: フルリモートワーク（週1回程度の出社は可）
+勤務形態：リモートワーク（週1回程度の出社は可）
 
 ## アウトプット
 
