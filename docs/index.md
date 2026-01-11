@@ -89,6 +89,7 @@ layout: doc
 |---|---|
 |<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" />|5年|
 |<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />|5年|
+|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|5年|
 |<img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />|5年|
 |<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />|3年|
 |<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />|2年|
@@ -102,9 +103,12 @@ layout: doc
 |---|---|
 |<img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=CircleCI&logoColor=white" />|5年|
 |<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-343434?style=flat-square&logo=GitHub Actions&logoColor=white" />|5年|
-|<img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white" />|3年|
-|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|5年|
-|<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" style="background-color: #FFC0CB;" />|2年|
+|<img alt="Notion" src="https://img.shields.io/badge/-Notion-343434?style=flat-square&logo=Notion&logoColor=white" />|3年|
+|<img alt="Figma" src="https://img.shields.io/badge/-Figma-343434?style=flat-square&logo=Figma&logoColor=white" style="background-color: #FFC0CB;" />|2年|
+|<img alt="Cursor" src="https://img.shields.io/badge/-Cursor-343434?style=flat-square&logo=cursor&logoColor=white" />|2年|
+|<img alt="Claude Code" src="https://img.shields.io/badge/-Claude Code-343434?style=flat-square&logo=anthropic&logoColor=white" />|1年|
+|<img alt="Codex" src="https://img.shields.io/badge/-Codex-343434?style=flat-square&logo=openai&logoColor=white" />|1年|
+|<img alt="Spec Workflow MCP" src="https://img.shields.io/badge/-Spec Workflow MCP-343434?style=flat-square&logo=spec-workflow-mcp&logoColor=white" />|1年|
 
 </div>
 
