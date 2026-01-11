@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "textlint docs/README.md",
     "prepare:pdf": "node scripts/prepare-pdf.cjs",
-    "build:pdf": "npm run prepare:pdf && md-to-pdf docs/index.pdf.md --config-file ./pdf-configs/config.cjs && mv docs/index.pdf.md.pdf docs/index.pdf && rm docs/index.pdf.md",
+    "build:pdf": "npm run prepare:pdf && md-to-pdf docs/index-temp.md --config-file ./pdf-configs/config.cjs && mv docs/index-temp.pdf docs/index.pdf && rm docs/index-temp.md",
     "dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
