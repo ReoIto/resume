@@ -1,6 +1,9 @@
+const path = require('path');
+
 module.exports = {
   stylesheet: "./pdf-configs/style.css",
   body_class: "markdown-body",
+  basedir: path.resolve(__dirname, '../docs'),
   marked_options: {
     headerIds: false,
     smartypants: true,
