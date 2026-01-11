@@ -23,9 +23,8 @@ layout: doc
 ## 各種アカウント
 
 <p style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <a href="https://github.com/ReoIto" target="_blank"><img alt="Github" src="https://img.shields.io/badge/ReoIto-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-  <a href="https://qiita.com/ganbarow-taro" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ReoIto-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
-  <a href="https://zenn.dev/" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ReoIto-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+  <a href="https://github.com/ReoIto" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+  <a href="https://qiita.com/ganbarow-taro" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Qiita-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 </p>
 
 
@@ -232,13 +231,15 @@ layout: doc
   - AI編集者と対話するだけで、その人の人生が本になるWebサービス
 
 - **使用技術**
-  - Bun, Hono, Next.js, Supabase, Drizzle ORM, Tanstack AI, Cloudflare
+  - Bun, Hono, Next.js, Zod, Shadcn UI, Supabase, Drizzle ORM, Tanstack AI, Cloudflare, Stripe, Resend
 
 - **成果**
   - AI編集者からの質問に気軽に答えるだけという、新しい本の執筆体験を実現。
+  - HonoのRPCを用い、End-to-End で型安全な仕組みを構築し、開発速度を向上。
   - 軽量ランタイム(Bun)やエッジ向けフレームワーク(Hono)を採用し、パフォーマンスを重視した設計を実現。
   - レイヤードアーキテクチャを採用し、拡張性・変更用意性の高い設計を実現。
-  - Web広告等のマーケティング施策を実施し、実際に購入者を獲得し売上を実現した。
+  - 生成AIの実装スタイルを統一するため厳格な実装方法を定義し、ドキュメント化を徹底。
+  - Web広告等のマーケティング施策を実施し、実際に購入者を獲得し売上を実現。
   - AIを駆使したSDDにより、アイデア構想から2ヶ月でリリース。
 
 :::
@@ -258,7 +259,8 @@ layout: doc
   - Flutter (Dart), TypeScript, Firebase
 
 - **成果**
-  - iOS/Android両対応のクロスプラットフォーム開発を一人で完遂。
+  - 初のモバイルアプリ開発。
+  - iOS/Android両対応のクロスプラットフォームに対応。
   - SNSマーケティングにより累計700名以上のユーザーを獲得。
   - オフラインユーザー会を主催し、N1インタビューを通じてプロダクト改善を実施。
 
