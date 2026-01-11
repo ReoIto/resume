@@ -76,11 +76,10 @@ layout: doc
 |<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />|4年|
 |<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />|3年|
 |<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />|2年|
-|<img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" />|1年|
+|<img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" />|2年|
 |<img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" />|1年|
 |<img alt="Hono" src="https://img.shields.io/badge/-Hono-f57c00?style=flat-square&logo=Hono&logoColor=white" style="background-color: #f57c00;" />|1年|
 |<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />|1年|
-|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|5年|
 
 </div>
 
@@ -104,6 +103,8 @@ layout: doc
 |<img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=CircleCI&logoColor=white" />|5年|
 |<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-343434?style=flat-square&logo=GitHub Actions&logoColor=white" />|5年|
 |<img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white" />|3年|
+|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|5年|
+|<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" style="background-color: #FFC0CB;" />|2年|
 
 </div>
 
@@ -234,6 +235,7 @@ layout: doc
   - 軽量ランタイム(Bun)やエッジ向けフレームワーク(Hono)を採用し、パフォーマンスを重視した設計を実現。
   - レイヤードアーキテクチャを採用し、拡張性・変更用意性の高い設計を実現。
   - Web広告等のマーケティング施策を実施し、実際に購入者を獲得し売上を実現した。
+  - AIを駆使したSDDにより、アイデア構想から2ヶ月でリリース。
 
 :::
 
