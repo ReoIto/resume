@@ -231,7 +231,7 @@ EC基幹システムおよび不動産テック領域において、約5年間�
   - AI編集者と対話するだけで、その人の人生が本になるWebサービス
 
 - **使用技術**
-  - Bun, Hono, Next.js, Zod, Shadcn UI, Supabase, Drizzle ORM, Tanstack AI, Cloudflare, Stripe, Resend
+  - Bun, Hono, Next.js, Zod, Shadcn UI, Supabase, Drizzle ORM, Tanstack Query, Tanstack AI, Cloudflare, Stripe, Resend
 
 - **成果**
   - AI編集者からの質問に気軽に答えるだけという、新しい本の執筆体験を実現。
