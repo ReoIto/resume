@@ -9,7 +9,7 @@ layout: doc
 
 <div style="margin-bottom: 24px;">
 
-<img src="/images/profile-image.jpg" alt="プロフィール画像" style="width: 400px; height: 300px; object-fit: cover;" />
+<!-- <img src="/images/profile-image.jpg" alt="プロフィール画像" style="width: 400px; height: 300px; object-fit: cover;" /> -->
 
 </div>
 
