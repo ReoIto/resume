@@ -115,7 +115,7 @@ EC基幹システムおよび不動産テック領域において、約5年間�
 
 ## 職務経歴
 
-:::details 2023/04〜現在 [パレットクラウド株式会社](https://corporate.palette.co.jp/) {open}
+:::details 2023/07〜現在 [パレットクラウド株式会社](https://corporate.palette.co.jp/) {open}
 
 <img src="/images/palette-cloud.png" alt="パレットクラウドのロゴ" style="width: 100%; max-width: 800px; height: auto;" />
 
@@ -387,7 +387,7 @@ TypeScript, NestJS, React, Redis, PostgreSQL, Drizzle ORM, Zod, OpenAPI, Swagger
 
 :::
 
-:::details 2021/04〜2023/03 [テモナ株式会社](https://temona.co.jp/) {open}
+:::details 2021/04〜2023/06 [テモナ株式会社](https://temona.co.jp/) {open}
 
 <img src="/images/subsc-store.png" alt="サブスクストアのロゴ" style="width: 100%; max-width: 800px; height: auto;" />
 
