@@ -415,6 +415,38 @@ Ruby, Ruby on Rails, JavaScript, TypeScript, React, PostgreSQL, Elasticsearch, R
 
 ## 個人開発・業務外活動
 
+:::details 2026/02〜現在 [hue - color hunting](https://hue-today.com) {open}
+
+<div style="margin-bottom: 24px;">
+
+<img src="/images/hue.png" alt="hueアプリのスクリーンショット" style="width: 100%; max-width: 800px; height: auto;" />
+
+</div>
+
+### 概要
+世界中のユーザーが毎週共通の「Hunting Color」に合わせて写真を投稿し、色の解釈を共有する画像投稿SNSアプリ
+
+### 使用技術
+Bun, TypeScript, Expo, React Native, Expo Router, TanStack Query, Zustand, NativeWind, Hono, Cloudflare Workers, Cloudflare D1, Cloudflare R2, Cloudflare Queues, Durable Objects, Drizzle ORM, Better Auth, Zod, EAS, GitHub Actions
+
+### 成果
+- 企画・設計・実装・App Store公開・運用まで個人で一気通貫で実施。
+- iOSアプリとしてApp Storeに公開し、2026/06/21時点で累計3,600DL以上を獲得。
+- 毎週変わるHunting Color、グローバルタイムライン、日別コラージュ、Color Partyなど、色を軸にした独自の投稿体験を設計・実装。
+- Expo / React Nativeによりモバイルアプリを構築し、EASを用いたビルド・提出フローを整備。
+- Hono RPCを用いて、アプリとCloudflare Workers API間でEnd-to-Endに型安全な通信基盤を構築。
+- Cloudflare D1 / R2 / Queues / Durable Objectsを活用し、画像投稿、WebP変換、コラージュ生成、Push通知、リアルタイム通知をサーバーレスに実装。
+- 日本語・英語に加え、韓国語、中国語、タイ語、インドネシア語、ベトナム語、スペイン語、ポルトガル語、フランス語に対応し、グローバル展開を前提に設計。
+- ユーザーフィードバック、サービスアナウンス、強制アップデート、アカウント削除、通報・ブロックなど、公開アプリとして必要な運用機能を整備。
+- TBSテレビの朝の情報番組「THE TIME,」およびTBS NEWS DIGの記事「SNSで急増！歩いて撮る『カラーハンティング』とは？」で、カラーハンティングを楽しむ写真加工アプリとして紹介。
+
+### メディア掲載
+- [SNSで急増！歩いて撮る「カラーハンティング」とは？〖THE TIME,〗](https://newsdig.tbs.co.jp/articles/-/2680937)（TBS NEWS DIG / 2026年5月24日）
+
+<img src="/images/hue-the-time.png" alt="THE TIME,でhueアプリが紹介された放送キャプチャ" style="width: 100%; max-width: 800px; height: auto;" />
+
+:::
+
 :::details 2025/10〜現在 [kotory - コトリー](https://kotoryapp.com) {open}
 
 <div style="margin-bottom: 24px;">
