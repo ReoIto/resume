@@ -115,9 +115,11 @@ EC基幹システムおよび不動産テック領域において、約5年間�
 
 ## 職務経歴
 
-:::details 2023/07〜現在 [パレットクラウド株式会社](https://corporate.palette.co.jp/) {open}
+:::details 2023/07〜現在 [株式会社ビットキー](https://bitkey.co.jp/)（旧：パレットクラウド株式会社） {open}
 
-<img src="/images/palette-cloud.png" alt="パレットクラウドのロゴ" style="width: 100%; max-width: 800px; height: auto;" />
+<img src="/images/palette-cloud.png" alt="旧パレットクラウドのロゴ" style="width: 100%; max-width: 800px; height: auto;" />
+
+※パレットクラウド株式会社は、2026年6月30日付で株式会社ビットキーに吸収合併されました。
 
 ## 1. 賃貸管理会社向け入居者管理SaaSの開発・運用
 
@@ -431,7 +433,7 @@ Bun, TypeScript, Expo, React Native, Expo Router, TanStack Query, Zustand, Nativ
 
 ### 成果
 - 企画・設計・実装・App Store公開・運用まで個人で一気通貫で実施。
-- iOSアプリとしてApp Storeに公開し、2026/06/21時点で累計3,600DL以上を獲得。
+- iOSアプリとしてApp Storeに公開し、2026/08/02時点で累計5,100DL以上を獲得。
 - 毎週変わるHunting Color、グローバルタイムライン、日別コラージュ、Color Partyなど、色を軸にした独自の投稿体験を設計・実装。
 - Expo / React Nativeによりモバイルアプリを構築し、EASを用いたビルド・提出フローを整備。
 - Hono RPCを用いて、アプリとCloudflare Workers API間でEnd-to-Endに型安全な通信基盤を構築。
